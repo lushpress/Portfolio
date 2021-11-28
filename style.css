@@ -357,4 +357,8 @@ opacity: 1;
     .footer-img{
         top: 20px;
     }
+    .footer-left, .footer-right p{
+        font-size: 15px;
+        flex-basis: 100%;
+    }
 }
